@@ -1,1 +1,1 @@
-# Geolocation App for Tracking Workouts
+# Geolocation App for Logging Workouts
