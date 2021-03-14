@@ -53,7 +53,7 @@ class Cycling extends Workout {
 const run1 = new Running([36, 42], 5.2, 24, 178);
 const cycle1 = new Cycling([36, 42], 27, 95, 523);
 console.log(run1, cycle1);
-///////////////////////
+//////////////////////////////
 // MAIN APP
 class App {
   #map;
